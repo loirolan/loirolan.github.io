@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loirolan.github.io/sitemap.html.gz
+Sitemap: https://loirolan.github.io/app/sitemap.html.gz
+Sitemap: https://loirolan.github.io/assets/sitemap.html.gz
+Sitemap: https://loirolan.github.io/css/sitemap.html.gz
+Sitemap: https://loirolan.github.io/includes/sitemap.html.gz
+Sitemap: https://loirolan.github.io/item/sitemap.html.gz
+Sitemap: https://loirolan.github.io/src/sitemap.html.gz
